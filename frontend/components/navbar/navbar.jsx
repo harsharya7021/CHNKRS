@@ -22,13 +22,12 @@ export const NavBar = ({currentUser, logout}) => {
     return (
         <div className="navbar-element">
             <div>
-                <a href="https://www.linkedin.com/in/joe-xiyang-lu-838459168/">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/harsharyaa/">
+                    LinkedIn
+                </a>
             </div>
             <div>
-                <a href="https://github.com/joexylu">GitHub</a>
-            </div>
-            <div>
-                <a href="https://angel.co/u/joe-xiyang-lu">AngelList</a>
+                <a href="https://github.com/harsharya7021/CHNKRS">GitHub</a>
             </div>
             <div>
                 {display}
