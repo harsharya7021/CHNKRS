@@ -1,4 +1,4 @@
-# CopX
+# CHNKRS
 ![logo](/image/coplogo.png)
 #### [CopX](https://copx.herokuapp.com/#/) is an online marketplace catered mainly toward the sneaker community. It is a clone of StockX.com, a single-page, e-commerce website that allows users to browse through and shop sneakers. The app is built on a Ruby on Rails backend with a PostgresQL database. The frontend uses a combination of React and Redux, and uses Amazon AWS S3 for cloud based storage of images.
 
